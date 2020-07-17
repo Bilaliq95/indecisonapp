@@ -1,0 +1,12 @@
+.option-widget{
+    display:flex;
+    justify-content:space-between;
+    padding:$m-size $m-size;
+    border-bottom: .1rem solid lighten($light-blue,10%);
+    color:white;
+    word-break: break-all;    
+}
+
+.option-widget__li{
+color:white;
+}
